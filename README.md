@@ -48,7 +48,7 @@
 <a href="https://instagram.com/cadu_ayres" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/Croak" target="_blank">
+<a href="https://www.youtube.com/channel/UCT8F2daj8p_9OKwR46R2qQA" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
