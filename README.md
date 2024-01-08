@@ -45,10 +45,10 @@
 <a href="https://linkedin.com/in/CroakDev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/CroakDev" target="_blank">
+<a href="https://instagram.com/cadu_ayres" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/CroakDev" target="_blank">
+<a href="https://youtube.com/Croak" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
