@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at [LabHosting]([https://github.com/Rocketseat](https://labhosting.com.br/))
 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, .Lua, C#**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, .Lua, C#, React**
 
 - ⚡ Fun fact **Oneye 😜**
 
